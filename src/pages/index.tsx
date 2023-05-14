@@ -5,6 +5,5 @@ export default function Home() {
     <Pagina>
       <h1>BitCENT</h1>
     </Pagina>
-      
   )
 }
