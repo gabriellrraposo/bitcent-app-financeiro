@@ -1,7 +1,10 @@
+import Pagina from "@/components/template/Pagina";
+
 export default function Home() {
   return (
-    <div>
-      <h1>Bitcent</h1>
-    </div>
+    <Pagina>
+      <h1>BitCENT</h1>
+    </Pagina>
+      
   )
 }
