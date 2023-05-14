@@ -1,7 +1,10 @@
+import Logo from "../comum/Logo"
+import Area from "../comum/Area"
+
 export default function Cabecalho() {
     return (
-        <div>
-            
-        </div>
+        <Area>
+            <Logo />
+        </Area>
     )
 }
